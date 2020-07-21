@@ -1,0 +1,8 @@
+D:\python_course\APLKafka\APLKafka\bin\Debug\netcoreapp3.1\APLKafka.deps.json
+D:\python_course\APLKafka\APLKafka\bin\Debug\netcoreapp3.1\APLKafka.dll
+D:\python_course\APLKafka\APLKafka\bin\Debug\netcoreapp3.1\APLKafka.pdb
+D:\python_course\APLKafka\APLKafka\obj\Debug\netcoreapp3.1\APLKafka.AssemblyInfoInputs.cache
+D:\python_course\APLKafka\APLKafka\obj\Debug\netcoreapp3.1\APLKafka.AssemblyInfo.cs
+D:\python_course\APLKafka\APLKafka\obj\Debug\netcoreapp3.1\APLKafka.dll
+D:\python_course\APLKafka\APLKafka\obj\Debug\netcoreapp3.1\APLKafka.pdb
+D:\python_course\APLKafka\APLKafka\obj\Debug\netcoreapp3.1\APLKafka.csprojAssemblyReference.cache
